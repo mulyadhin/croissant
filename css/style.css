@@ -1,0 +1,32 @@
+body {
+  background-color: #f0c79a;
+  padding: 50px;
+}
+
+h1,
+h3 {
+  color: #752617;
+}
+
+p {
+  color: #bc410c;
+  max-width: 600px;
+}
+
+a {
+  display: block;
+  text-decoration: none;
+  color: #ffffff;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #752617;
+}
+
+img {
+  border-radius: 10px;
+}
